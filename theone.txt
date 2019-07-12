@@ -1,4 +1,2 @@
-TheOneNeverGiveUp-theone
-TheOneNeverGiveUp-dev
-TheOneNeverGiveUp-feather
-TheOneNeverGiveUp-decade
+TheOneNeverGiveUp
+faker
